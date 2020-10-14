@@ -79,7 +79,7 @@
                 "DEBUGTELEMETRY": "v",
                 "NODE_DEBUG": "",
                 "DEBUG_WEBPACK": "1",
-                "ENABLE_LONG_RUNNING_TESTS": ""
+                "ENABLE_LONG_RUNNING_TESTS": "1"
             }
         },
         {
